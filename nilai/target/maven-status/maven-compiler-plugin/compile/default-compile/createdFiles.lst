@@ -1,0 +1,8 @@
+com\rizky\nilai\vo\Matakuliah.class
+com\rizky\nilai\NilaiApplication.class
+com\rizky\nilai\vo\Mahasiswa.class
+com\rizky\nilai\entity\Nilai.class
+com\rizky\nilai\vo\ResponseTemplate.class
+com\rizky\nilai\repository\NilaiRepository.class
+com\rizky\nilai\controller\NilaiController.class
+com\rizky\nilai\service\NilaiService.class
